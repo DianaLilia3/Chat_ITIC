@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "687804447364",
+    "project_id": "chatapp-8005b",
+    "storage_bucket": "chatapp-8005b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687804447364:android:1a9d6f6fd648ba8cabe0d1",
+        "android_client_info": {
+          "package_name": "mx.tecnm.surnayarit.chat_itic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfo7P_ynzijkgwhsREHVn2WB2asmQSPPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687804447364:android:327b8fb7ab58e288abe0d1",
+        "android_client_info": {
+          "package_name": "mx.tecnm.surnayarit.dadm_2023_13_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfo7P_ynzijkgwhsREHVn2WB2asmQSPPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
